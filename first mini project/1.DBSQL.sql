@@ -1,5 +1,5 @@
 
--- ´ÙÀÌ¾î¸® Å×ÀÌºí »ı¼º
+-- ë‹¤ì´ì–´ë¦¬ í…Œì´ë¸” ìƒì„±
 create table diary(
     uname varchar2(50),
     w_date varchar2(50),
@@ -10,7 +10,7 @@ create table diary(
     illgi varchar2(500)
 );
 
--- È¸¿øÅ×ÀÌºí »ı¼º
+-- íšŒì›í…Œì´ë¸” ìƒì„±
 create table meb(
     ucode number(10) primary key,
     uname varchar2(20) unique,
@@ -18,7 +18,7 @@ create table meb(
 );
 
 
--- ³ë·¡Å×ÀÌºí »ı¼º
+-- ë…¸ë˜í…Œì´ë¸” ìƒì„±
 create table song(
     scode number(10) primary key,
     title varchar2(100) unique,
@@ -28,7 +28,7 @@ create table song(
     kind varchar2(50)
 );
 
--- Å×ÀÌºí ÀüÃ¼ µ¥ÀÌÅÍ Á¶È¸
+-- í…Œì´ë¸” ì „ì²´ ë°ì´í„° ì¡°íšŒ
 select * from meb;
 select * from diary;
 select * from song;
