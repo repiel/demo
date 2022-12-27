@@ -20,4 +20,3 @@
 |:---:|:---:|:---:|
 |DB연동|python <br>코드작성|python<br> 코드작성|
 |oracle로 DB 연동|while문과 for문을 <br>이용하여 반복문 작성|while문과 for문을 <br>이용하여 반복문 작성|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
