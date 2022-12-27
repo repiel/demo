@@ -16,7 +16,7 @@
 ![감성다이어리(박유정조)발표자료-18](https://user-images.githubusercontent.com/119375302/209597102-2b623249-ab1f-43f4-9aae-5f4f231f0da9.jpg)
 
 # 팀소개
-|박영현|유경민|정혜인|
+|박영현|퀸(유)경민|정혜인|
 |:---:|:---:|:---:|
 |DB연동|python <br>코드작성|python<br> 코드작성|
 |oracle로 DB 연동|while문과 for문을 <br>이용하여 반복문 작성|while문과 for문을 <br>이용하여 반복문 작성|
